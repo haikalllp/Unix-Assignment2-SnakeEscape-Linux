@@ -1,9 +1,9 @@
-# Terminal Snake Avoiding Game
+# Terminal Snake Escape Game
 
-A console-based snake avoiding game with undo functionality, built in C89 standard.
+A console-based snake escape game, built in C89 standard.
 
 ## Table of Contents
-- [Terminal Snake Avoiding Game](#terminal-snake-avoiding-game)
+- [Terminal Snake Escape Game](#terminal-snake-escape-game)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Requirements](#requirements)
@@ -20,7 +20,7 @@ A console-based snake avoiding game with undo functionality, built in C89 standa
     - [Map File Format](#map-file-format)
 
 ## Features
-- Procedural maze generation
+- Procedural grid maze generation
 - Save/load game state functionality after every move
 - undo game state functionality
 - Interactive rule system
@@ -39,9 +39,9 @@ A console-based snake avoiding game with undo functionality, built in C89 standa
 # Install build essentials
 sudo apt update && sudo apt install build-essential make valgrind
 
-# Clone repository (example - adjust as needed)
-git clone https://github.com/yourusername/maze-game.git
-cd maze-game
+# Clone repository
+git clone https://github.com/haikalllp/Unix-Assignment2-SnakeEscape-Linux
+cd SnakeEscapeGame
 ```
 
 ## Usage
