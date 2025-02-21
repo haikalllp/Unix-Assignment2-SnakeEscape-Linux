@@ -4,7 +4,7 @@
 #include "sleep.h"
 #include <time.h>
 
-/* Reference: Suplementary video */
+/* Reference: Supplementary video */
 /* Function to add delay */
 void delay(float sec) {
     struct timespec ts;
